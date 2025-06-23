@@ -1,0 +1,14 @@
+Name,Age,Email,Phone,Department,StartDate,Notes,Skills[0],Skills[1],Skills[2],Languages[0],Languages[1],Languages[2],Address.Street,Address.City,Address.State,Address.ZipCode
+"John ""The Expert"" Doe",30,john.doe@email.com,555-1234,Engineering,2023-01-15,"Great developer with C#, Python skills. 
+Works well in teams.",C#,Python,SQL,English,Spanish,,"123 Main St, Apt 4B",New York,NY,10001
+"Jane, Smith-Jones",25,"jane.smith@company,inc.com","555-5678, ext 123","Marketing, Communications",2023-03-20,"Marketing expert who handles:
+- Social Media
+- Email campaigns
+- Content creation
+
+Very reliable!",Marketing,Analytics,Design,English,French,German,"456 Oak Ave, Suite 200",Los Angeles,CA,90210
+"Bob O'Connor",35,bob@email.com,555-9012,Sales,2022-11-10,"Top sales performer.
+Speaks multiple languages:
+English, Spanish, French.
+
+""Customer's choice"" award winner.",Sales,Negotiation,CRM,English,Spanish,French,789 Pine Rd,Chicago,IL,60601

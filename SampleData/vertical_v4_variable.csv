@@ -1,0 +1,36 @@
+Name,Alice Johnson,Bob Smith,Carol Williams,David Brown
+Age,28,45,32,29
+Email,alice@email.com,bob@email.com,carol@email.com,david@email.com
+Phone,555-0001,555-0002,555-0003,555-0004
+Department,Engineering,Management,Design,Sales
+StartDate,2023-01-15,2020-05-10,2022-08-20,2023-11-01
+Skills[0],JavaScript,,Photoshop,Sales
+Skills[1],,Python,Illustrator,CRM
+Skills[2],,Java,Figma,Negotiation
+Skills[3],,C#,InDesign,
+Skills[4],,SQL,,
+Skills[5],,Docker,,
+Skills[6],,Kubernetes,,
+Languages[0],English,English,English,English
+Languages[1],Spanish,French,Spanish,
+Languages[2],,German,,
+Address.Street,100 Tech St,200 Mgmt Ave,300 Design Blvd,400 Sales Dr
+Address.City,Austin,Seattle,Portland,Denver
+Address.State,TX,WA,OR,CO
+Address.ZipCode,78701,98101,97201,80202
+Projects[0].Name,ReactApp,TeamReorg,BrandGuide,Q1Sales
+Projects[0].Role,Developer,Director,Lead Designer,Sales Rep
+Projects[0].StartDate,2023-01-15,2020-05-10,2022-08-20,2023-11-01
+Projects[0].EndDate,2023-06-30,,2023-01-15,
+Projects[1].Name,,Migration,WebsiteDesign,ClientDemo
+Projects[1].Role,,Manager,Designer,Account Manager
+Projects[1].StartDate,,2021-03-01,2023-02-01,2024-01-15
+Projects[1].EndDate,,2021-09-15,2023-08-30,
+Projects[2].Name,,Integration,MobileApp,
+Projects[2].Role,,Technical Lead,UX Designer,
+Projects[2].StartDate,,2022-01-10,2023-09-01,
+Projects[2].EndDate,,2022-12-31,,
+Projects[3].Name,,,AppPrototype,
+Projects[3].Role,,,Lead UX,
+Projects[3].StartDate,,,2023-12-01,
+Projects[3].EndDate,,,

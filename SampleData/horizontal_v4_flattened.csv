@@ -1,0 +1,4 @@
+Name,Age,Email,Phone,Department,StartDate,Skills[0],Skills[1],Skills[2],Languages[0],Languages[1],Address.Street,Address.City,Address.State,Address.ZipCode,Projects[0].Name,Projects[0].Role,Projects[0].StartDate,Projects[0].EndDate,Projects[1].Name,Projects[1].Role,Projects[1].StartDate,Projects[1].EndDate
+John Doe,30,john.doe@email.com,555-1234,Engineering,2023-01-15,C#,Python,SQL,English,Spanish,123 Main St,New York,NY,10001,WebApp,Lead Developer,2023-01-15,2023-12-31,MobileApp,Senior Developer,2022-06-01,2022-12-15
+Jane Smith,25,jane.smith@email.com,555-5678,Marketing,2023-03-20,Marketing,Analytics,Design,English,French,456 Oak Ave,Los Angeles,CA,90210,Campaign2023,Marketing Lead,2023-03-20,,BrandRefresh,Designer,2023-01-10,2023-02-28
+Bob Johnson,35,bob.johnson@email.com,555-9012,Sales,2022-11-10,Sales,Negotiation,CRM,English,,789 Pine Rd,Chicago,IL,60601,Q4Sales,Sales Manager,2022-11-10,,ClientOnboard,Account Manager,2022-08-01,2022-10-31
